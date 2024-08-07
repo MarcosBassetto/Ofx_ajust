@@ -1,0 +1,16 @@
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net6.0-windows7.0\Ofx.exe
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net6.0-windows7.0\Ofx.deps.json
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net6.0-windows7.0\Ofx.runtimeconfig.json
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net6.0-windows7.0\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net6.0-windows7.0\Ofx.pdb
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.frmOfx.resources
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.csproj.GenerateResource.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.AssemblyInfoInputs.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.AssemblyInfo.cs
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.csproj.CoreCompileInputs.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\refint\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.pdb
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.genruntimeconfig.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\ref\Ofx.dll

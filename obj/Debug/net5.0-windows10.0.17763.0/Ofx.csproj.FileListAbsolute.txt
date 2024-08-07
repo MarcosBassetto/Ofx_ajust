@@ -1,0 +1,6 @@
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.frmOfx.resources
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.csproj.GenerateResource.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.AssemblyInfoInputs.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.AssemblyInfo.cs
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net5.0-windows10.0.17763.0\Ofx.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net8.0-windows\Ofx.exe
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net8.0-windows\Ofx.deps.json
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net8.0-windows\Ofx.runtimeconfig.json
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net8.0-windows\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\bin\Debug\net8.0-windows\Ofx.pdb
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.frmOfx.resources
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.csproj.GenerateResource.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.GeneratedMSBuildEditorConfig.editorconfig
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.AssemblyInfoInputs.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.AssemblyInfo.cs
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.csproj.CoreCompileInputs.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\refint\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.pdb
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\Ofx.genruntimeconfig.cache
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net8.0-windows\ref\Ofx.dll
