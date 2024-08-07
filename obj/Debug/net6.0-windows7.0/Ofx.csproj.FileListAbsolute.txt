@@ -14,3 +14,4 @@ D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\refin
 D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.pdb
 D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.genruntimeconfig.cache
 D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\ref\Ofx.dll
+D:\marcao_local\programacao\C#_project\ofx\Ofx\obj\Debug\net6.0-windows7.0\Ofx.sourcelink.json

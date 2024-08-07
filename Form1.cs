@@ -40,7 +40,9 @@ namespace Ofx
                 string ofxData = File.ReadAllText(filePath);
                 OfxAjuste ofxAjuste = new OfxAjuste();
                 ofxAjuste.VerificaTag(ofxData);
-                string result = ofxAjuste.GetOfx();
+
+                // Ajustar tags <MEMO>
+                string result = ofxAjuste.AjustarMemos(ofxAjuste.GetOfx());
 
                 if (!string.IsNullOrEmpty(result))
                 {

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|d:\\marcao_local\\programacao\\c#_project\\ofx\\ofx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|d:\\marcao_local\\programacao\\c#_project\\ofx\\ofx\\ofxajuste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|solutionrelative:ofxajuste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|d:\\marcao_local\\programacao\\c#_project\\ofx\\ofx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|d:\\marcao_local\\programacao\\c#_project\\ofx\\ofx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B263F4-2A4D-4CDF-86BD-16114A504FFC}|Ofx.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OfxAjuste.cs",
               "DocumentMoniker": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\OfxAjuste.cs",
               "RelativeDocumentMoniker": "OfxAjuste.cs",
               "ToolTip": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\OfxAjuste.cs",
               "RelativeToolTip": "OfxAjuste.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCsAAAAIAAAA",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAwwGcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T14:48:54.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\marcao_local\\programacao\\C#_project\\ofx\\Ofx\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T20:17:02.127Z",
               "EditorCaption": ""

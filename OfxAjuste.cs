@@ -53,6 +53,36 @@ public class OfxAjuste
         return stmttrnContent;
     }
 
+    private string AjustMemo(string stmttrnContent)
+    {
+        var memoMatch = Regex.Match(stmttrnContent, @"<MEMO>\s*([^<\r\n]+)", RegexOptions.Singleline);
+        if (memoMatch.Success)
+        {
+            string memoContent = memoMatch.Groups[1].Value;
+            if (memoContent.Contains("\u008d"))
+            {
+                memoContent = memoContent.Replace("", string.Empty);
+                stmttrnContent = stmttrnContent.Replace(memoMatch.Groups[1].Value, memoContent);
+            }
+        }
+        return stmttrnContent;
+    }
+
+    public string AjustarMemos(string ofxContent)
+    {
+        var stmttrnMatches = Regex.Matches(ofxContent, @"<STMTTRN>.*?<\/STMTTRN>", RegexOptions.Singleline);
+        StringBuilder adjustedContent = new StringBuilder();
+
+        foreach (Match match in stmttrnMatches)
+        {
+            string stmttrnContent = match.Value;
+            stmttrnContent = AjustMemo(stmttrnContent);
+            adjustedContent.Append(stmttrnContent);
+        }
+
+        return header + adjustedContent.ToString() + footer;
+    }
+
     public string GetOfx()
     {
         return header + ofx.ToString() + footer;
