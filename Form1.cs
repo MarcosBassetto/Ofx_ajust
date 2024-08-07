@@ -41,8 +41,7 @@ namespace Ofx
                 OfxAjuste ofxAjuste = new OfxAjuste();
                 ofxAjuste.VerificaTag(ofxData);
 
-                // Ajustar tags <MEMO>
-                string result = ofxAjuste.AjustarMemos(ofxAjuste.GetOfx());
+               string result = ofxAjuste.AjustarMemos(ofxAjuste.GetOfx());
 
                 if (!string.IsNullOrEmpty(result))
                 {
